@@ -1,0 +1,6 @@
+{
+  name: "test",
+  dependencies: {
+    "dlv": "^1.1.3",
+  }
+}
