@@ -1,4 +1,4 @@
-import Service from "../../lib/service";
+const Service = require("../../lib/service");
 
 export default () => {
   const ENV = Netlify.env.get("READ_THIS_ENV");
