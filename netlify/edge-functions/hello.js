@@ -1,5 +1,5 @@
 import dlv from "dlv";
-import Service from "../../lib/service";
+import Service from "../../lib/service/index.js";
 
 const Obj = {
   test: {
