@@ -10,9 +10,8 @@ const Obj = {
 };
 
 export default () => {
-  Service();
   const ENV = Netlify.env.get("READ_THIS_ENV");
-  return new Response(`${dlv(Obj, "test.best.profile")} : ${ENV}`);
+  return new Response(`${Service()} -- ${dlv(Obj, "test.best.profile")} : ${ENV}`);
 }
 
 export const config = { path: "/test" };
