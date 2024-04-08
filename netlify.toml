@@ -1,2 +1,2 @@
 [functions]
-  included_files = ["lib/service/*.js"]
+  included_files = ["lib/service/index.js"]
