@@ -2,9 +2,10 @@
 
 ## But this is a Forked version.. P)
 
-
+```mermaid
 sequenceDiagram
     participant Alice@{ "type" : "control" }
     participant Bob
     Alice->>Bob: Control request
     Bob->>Alice: Control response
+```
