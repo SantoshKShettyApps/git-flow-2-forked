@@ -24,7 +24,7 @@ stateDiagram-v2
 ```
 ```mermaid
 stateDiagram
-   direction TB
+   direction LR
 
    accTitle: This is the accessible title
    accDescr: This is an accessible description
