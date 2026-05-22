@@ -8,7 +8,8 @@ sequenceDiagram
     participant Bob
     Alice->>Bob: Control request
     Bob->>Alice: Control response
-
+```
+```mermaid
 ---
 title: Simple sample
 ---
@@ -20,8 +21,9 @@ stateDiagram-v2
     Moving --> Still
     Moving --> Crash
     Crash --> [*]
-
-   stateDiagram
+```
+```mermaid
+stateDiagram
    direction TB
 
    accTitle: This is the accessible title
@@ -42,5 +44,4 @@ stateDiagram-v2
    class Moving, Crash movement
    class Crash badBadEvent
    class end badBadEvent
-
 ```
