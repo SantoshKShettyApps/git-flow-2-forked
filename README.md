@@ -3,6 +3,7 @@
 ## But this is a Forked version.. P)
 
 ```mermaid
+%%{init: { 'config': { 'securityLevel': 'loose', 'bindFunctions': false } }}%%
 ---
 title: A Very High Level View (about different actors playing their role)
 config:
