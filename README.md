@@ -12,18 +12,18 @@ config:
 ---
 %%{init: {"flowchart": {"diagramPadding": 150}}}%%
 graph LR
-  subgraph B [Browser]
-    CS["Content Script\n(Runs in the context of the Browser)"]
+  subgraph B ["`**Browser**`"]
+    CS["`**Content Script** - runs in the context of the Browser`"]
   end
-  subgraph BE [Browser Extension]
-    ES["Extension Scripts\n(Runs in the context of the Extension)"]
-    SW["Service Worker Scripts\n(Runs in the context of the Extension)"]
+  subgraph BE ["`**Browser Extension**`"]
+    ES["`**Extension Scripts** - run in the context of the Extension`"]
+    SW["`**Service Worker Scripts** - run in the context of the Extension`"]
   end
-  subgraph MQ [Message/Event Queue]
+  subgraph MQ ["`**Event Queue**`"]
     direction LR
     M1
     M2
-    M@{ shape: text, label: ".\n.\n." }
+    M@{ shape: text, label: ". . . ." }
     Mn
   end
 
@@ -34,8 +34,6 @@ graph LR
   ES e2@<--> |Communicates with the Content Script via| MQ
   e1@{ animate: true }
   e2@{ animate: true }
-  classDef flowchartPadder paddingBottom: 100
-  class MQ flowchartPadder
 ```
 
 ```mermaid
