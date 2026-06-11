@@ -3,12 +3,12 @@
 ## But this is a Forked version.. P)
 
 ```mermaid
-%%{init: { 'config': { 'securityLevel': 'loose', 'bindFunctions': false } }}%%
 ---
 title: A Very High Level View (about different actors playing their role)
 config:
   look: handDrawn
 ---
+%%{init: { 'config': { 'securityLevel': 'loose', 'bindFunctions': false } }}%%
 graph LR
   subgraph B [Browser]
     CS["Content Script\n(Runs in the context of the Browser)"]
