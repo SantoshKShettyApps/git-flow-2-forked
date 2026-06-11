@@ -7,7 +7,7 @@ title: A Very High Level View (about different actors playing their role)
 config:
   look: handDrawn
 ---
-graph LR
+graph TD
   subgraph B [Browser]
     CS["Content Script\n(Runs in the context of the Browser)"]
   end
