@@ -8,7 +8,7 @@ config:
   look: handDrawn
 ---
 %%{init: {"flowchart": {"diagramPadding": 150}}}%%
-graph TD
+graph LR
   subgraph B ["`**Browser**`"]
     CS["`**Content Script** - runs in the context of the Browser`"]
   end
@@ -17,9 +17,10 @@ graph TD
     SW["`**Service Worker Scripts** - run in the context of the Extension`"]
   end
   subgraph MQ ["`**Event Queue**`"]
+    direction LR
     M1
     M2
-    M@{ shape: text, label: ". . . ." }
+    M@{ shape: text, label: ".\n.\n.\n." }
     Mn
   end
 
