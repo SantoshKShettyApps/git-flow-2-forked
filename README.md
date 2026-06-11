@@ -1,8 +1,5 @@
 # git-flow-2
 
-<img width="1920" height="1080" alt="Credential Manager (Module)" src="https://github.com/user-attachments/assets/606ea0ef-aa43-45fa-bf66-51bb94e3a412" />
-
-
 ## But this is a Forked version.. P)
 ```mermaid
 ---
