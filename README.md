@@ -31,7 +31,7 @@ graph LR
   e1@{ animate: true }
   e2@{ animate: true }
   classDef flowchartPadder paddingBottom: 100
-  class BE flowchartPadder
+  class MQ flowchartPadder
 ```
 
 ```mermaid
