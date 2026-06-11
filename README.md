@@ -6,8 +6,9 @@
 title: A Very High Level View (about different actors playing their role)
 config:
   look: handDrawn
+  flowchart:
+    diagramPadding: 40
 ---
-%%{init: { 'flowchart': { 'diagramPadding': 150 } }%%
 graph LR
   subgraph B [Browser]
     CS["Content Script\n(Runs in the context of the Browser)"]
