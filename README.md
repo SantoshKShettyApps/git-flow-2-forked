@@ -5,8 +5,6 @@
 ```mermaid
 ---
 title: A Very High Level View (about different actors playing their role)
-config:
-  look: handDrawn
 ---
 %%{init: {"flowchart": {"diagramPadding": 150}}}%%
 graph LR
