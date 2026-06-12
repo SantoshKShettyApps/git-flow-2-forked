@@ -1,6 +1,9 @@
 # git-flow-2
 
 ## But this is a Forked version.. P)
+SVG Image
+![SVG anim](images/svgimage.svg)
+
 ```mermaid
 ---
 title: A Very High Level View (about different actors playing their role)
