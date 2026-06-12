@@ -2,7 +2,7 @@
 
 ## But this is a Forked version.. P)
 SVG Image
-![SVG anim](images/test.svg)
+![SVG anim](images/test2.svg)
 
 ```mermaid
 ---
