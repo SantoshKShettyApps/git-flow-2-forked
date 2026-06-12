@@ -3,7 +3,7 @@
 ## But this is a Forked version.. P)
 SVG Image
 ![SVG anim](images/test3.svg)
-![SVG anim2](images/mermaid-diagram-2026-06-12-180142.svg)
+![SVG anim2]([images/mermaid-diagram-2026-06-12-180142.svg](https://mermaid.ink/svg/pako:eNpVkTFvgzAQhf-KdVMrkQhCSLCHSg1ps6Rqh0yFDFY4sNVgI2OUpsB_ryGq2r7pTu9774br4KRzBAbFWV9OghtLDttMEafHNBFGNrbizZHMZg_9Di2ptMJrTzZ3O00aoetaqvL-xm9GiCTdfsSQWCHVx3Czkin_qrAn23TPa6vr41_ncNE9eUrlm3D1_x1h0KWe04Kzgs9O3JCEmwkBD0ojc2DWtOhBhabi4wrd6GZgBVaYAXNjjgVvzzaDTA0uVnP1rnX1kzS6LQW4-nPjtrbOucWt5KXhvwiqHE2iW2WBBeFUAayDT2CLNZ1HUbBc-OEqjCgNVh5cgYXx3HcKaBzE0TJaDB58TTf9ebxeUqc1jQKf-n7sAebSavNy-8T0kOEbTo19Uw))
 
 ```mermaid
 ---
