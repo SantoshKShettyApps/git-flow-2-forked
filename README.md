@@ -3,6 +3,7 @@
 ## But this is a Forked version.. P)
 SVG Image
 ![SVG anim](images/test3.svg)
+![SVG anim2](images/mermaid-diagram-2026-06-12-180142.svg)
 
 ```mermaid
 ---
