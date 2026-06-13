@@ -5,6 +5,7 @@ SVG Image
 ![SVG anim](images/test3.svg)
 ![SVG anim](images/abc.svg)
 ![SVG anim](images/tush.svg)
+![SVG anim](images/hier.svg)
 
 ```mermaid
 ---
